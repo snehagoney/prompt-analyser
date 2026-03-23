@@ -5,6 +5,7 @@ A small Python project that analyzes the quality of a prompt and gives simple fe
 ## What this project does
 
 This project checks whether a prompt is:
+
 - too short
 - missing clarity
 - missing action words
